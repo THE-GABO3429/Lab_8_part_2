@@ -1,4 +1,22 @@
 /**
+ * 22)A test of subtraction and addition wich then says the results passed | Not really
+ * 23)1 | no | 7 | from the thest plus method alone, it should always give the same anser of 7
+ * 24)is starts a 5, then goes to -13 and stays there
+ * 25)noooooo????
+ * 26)I don't understand
+ * 27)what?
+ * 28)Still nothin
+ * 29)what walkthrough are you talking about!?!?
+ * 30)i don't know, it would give 6 and I guess the engine would have worked properly
+ */
+
+
+
+
+
+
+
+/**
  * Test the CalcEngine class.
  * 
  * @author Hacker T. Largebrain 
